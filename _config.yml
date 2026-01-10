@@ -3,7 +3,7 @@ email:              tyler-abbot@gmail.com
 description:        A Blog About Some Adventures
 author:             Tyler Abbot
 baseurl:            "/blog"
-url:                "https://tyler-abbot.github.io"
+url:                "http://tyler-abbot.github.io"
 
 # Social Profiles
 twitter_username:   
